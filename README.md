@@ -1,4 +1,4 @@
-# Qwen3-
+# Qwen3-Running(incompatible)
 Qwen3模型运行（hf和transformer不兼容）
 运行环境：
 transformer= 4.52.4
